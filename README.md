@@ -1,8 +1,10 @@
-👋 Hi, I'm Akhil ✨
+👋 Hi there, 
 
-📊 A Data Science and Analytics learner, passionate about transforming raw data into insights<br/>
+I'm Akhil ✨
+
+📊 A Data Science learner, passionate about transforming raw data into insights<br/>
 🔭 Upskilling in data preprocessing, visualization, and machine learning with Python libraries like Pandas, NumPy, and Scikit-learn<br/>
-💡 Learning data visualization with Power BI, Tableau, and Python, while exploring machine learning frameworks like TensorFlow<br/>
+💡 Learning data visualization with Power BI and Python, while exploring machine learning frameworks like TensorFlow<br/>
 🐍 Focused on Python, SQL, data cleaning, and version control with Git for data-driven decision-making<br/>
 
 
